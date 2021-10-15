@@ -1,0 +1,10 @@
+com/agileexlab/chicken/Hen.java
+ com.agileexlab.chicken.Hen
+com/agileexlab/chicken/Cock.java
+ com.agileexlab.chicken.Cock
+com/agileexlab/chicken/Chick.java
+ com.agileexlab.chicken.Chick
+com/agileexlab/chicken/Chicken.java
+ com.agileexlab.chicken.Chicken
+com/agileexlab/Main.java
+ com.agileexlab.Main
